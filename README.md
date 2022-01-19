@@ -15,7 +15,7 @@
 ## :email: Find me on:
 
 <p align="center">
- <a href="https://www.linkedin.com/in/gaurav-poudel-76645a12b/" target="_blank" rel="noopener noreferrer"> <img src="https://www.google.com/search?q=linkedin+logo+image&sxsrf=AOaemvINzZhQQpOmovzcAYACsEPnCf6e4A:1642589212902&tbm=isch&source=iu&ictx=1&vet=1&fir=JdyXos__tp7KHM%252CvLBuaTBzrfpOUM%252C_%253BPYFnSk-Sl06DFM%252ClJtE7E84wMpehM%252C_%253BEzDqBHyalMoQZM%252CroExeEd-RTmcvM%252C_%253BtBdjrFxq08ZZFM%252ClJtE7E84wMpehM%252C_%253BRY9C4agbwgVscM%252CM0HpJPjbeFRb6M%252C_%253B1BS06211FyEbqM%252Cz2ZV4YCtngaFLM%252C_%253BUVFSabC2FwilhM%252Cz2ZV4YCtngaFLM%252C_%253BY7cRQM103LNiMM%252Cg8srrRYjQ5X80M%252C_%253BIau254bZ9QzlmM%252CV5tIJnMFBjJriM%252C_%253BjQ5wi4QlvijGiM%252CH6_ZsOui2o_2MM%252C_%253BuNEumJNQrTupIM%252Ct-UBfDlyl10ZtM%252C_%253BjW6SEtWWMf_6FM%252COZMeTYhqvpcQIM%252C_%253BernLeyzUCwyXGM%252CehgKIKEfe06raM%252C_%253BxcSX3W2TcwJNiM%252CNdgg4zIj-3zdZM%252C_&usg=AI4_-kT8YoNVetV1T2lvdTyQXCNkgbke8A&sa=X&ved=2ahUKEwj8sq_U0b31AhVNyYsBHXr-DqIQ9QF6BAgEEAE#imgrc=eZhkN9NwNWP6vM" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/gaurav-poudel-76645a12b/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="40" style="vertical-align:top; margin:4px; color:#FF0000" ></a>
  <a href="gauravpoudel83@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
 </p>
 <br/>
